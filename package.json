@@ -1,0 +1,23 @@
+{
+  "name": "poppy",
+  "version": "0.0.0",
+  "description": "poppy\r =====",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/farcryzry/poppy.git"
+  },
+  "author": "Ruiyun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/farcryzry/poppy/issues"
+  },
+  "homepage": "https://github.com/farcryzry/poppy",
+  "dependencies": {
+    "express": "^4.9.5",
+    "express3-handlebars": "^0.5.2"
+  }
+}
